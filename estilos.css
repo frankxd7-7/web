@@ -1,0 +1,50 @@
+
+header{
+
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration-skip-ink: center;
+}
+main{
+margin: 1cm;
+    color: rgb(255, 255, 255);
+    
+    text-align: justify;
+}
+footer{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: right;
+
+}
+form{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 400px;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+
+}
+table{
+    size: 0cap;
+        left: 7cm;
+    right: 15cm; 
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.xd{
+text-align: center;
+width: 50px;
+height: 50px;
+bottom: 20px;
+
+}
+image{
+    width: 460;
+    height: 210; 
+}
